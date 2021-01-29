@@ -1,0 +1,1 @@
+<footer class="footer"> © 2019 All rights reserved. Application Management Inventory by <a href="http://localhost:8000/">Sentuh Digital Teknologi</a></footer>
